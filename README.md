@@ -1,2 +1,3 @@
-# playground-aks-fleet-manager
+# Playground Kubernetes Fleet Manager
+
 Playground for Azure Kubernetes Fleet Manager
